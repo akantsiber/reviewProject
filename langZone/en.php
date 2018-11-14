@@ -1,5 +1,6 @@
 <?php
 return [
+    'newKey' => 'new Value',
     'signIn' => 'Sign In',
     'singUP' => 'Sign Up',
     'ok' => 'Ok',
