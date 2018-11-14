@@ -1,0 +1,45 @@
+{
+    "checkemail": {
+        "docTitle": "Greate, Check your inbox",
+        "title": "Great, Check your inbox",
+        "message": "Email confirmation helps us to ensure your data will always be safe."
+    },
+    "forgot": {
+        "docTitle": "Forgot your password?",
+        "title": "Forgot your password?",
+        "reset": "Reset Your Password"
+    },
+    "reset": {
+        "docTitle": "Confirm New Password",
+        "title": "Reset your password?",
+        "confirm": "Confirm password:",
+        "reset": "Reset"
+    },
+    "login": {
+        "title": "Log In",
+        "rememberMe": "Remember me",
+        "noAccount": "No Account?",
+        "forgot": "Forgot your password?",
+        "logWithMe": "Log with me"
+    },
+    "register": {
+        "title": "Register",
+        "firstname": "First Name:",
+        "lastname": "Last Name:",
+        "private": "Private",
+        "business": "Business",
+        "subscription": "Subscribe to our newsletter",
+        "account": "Already have an account?",
+        "agree": "By registering, you agree to our",
+        "terms": "Terms"
+    },
+    "auth": {
+        "email": "Email:",
+        "password": "Password:",
+        "signIn": "Sign In",
+        "singUP": "Sign Up",
+        "alreadySubmitted": {
+            "subscribed": "You are already subscribed for a newsletter"
+        }
+    }
+}
