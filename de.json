@@ -1,0 +1,78 @@
+{
+    "checkemail": {
+        "docTitle": "",
+        "title": "",
+        "message": ""
+    },
+    "forgot": {
+        "docTitle": "",
+        "title": "",
+        "reset": ""
+    },
+    "reset": {
+        "docTitle": "",
+        "title": "",
+        "confirm": "",
+        "reset": ""
+    },
+    "login": {
+        "title": "",
+        "rememberMe": "",
+        "noAccount": "",
+        "forgot": "",
+        "logWithMe": "",
+        "0": ""
+    },
+    "register": {
+        "title": "",
+        "firstname": "",
+        "lastname": "",
+        "private": "",
+        "business": "",
+        "subscription": "",
+        "account": "",
+        "agree": "",
+        "terms": ""
+    },
+    "auth": {
+        "email": "",
+        "password": "",
+        "signIn": "Anmelden",
+        "singUP": "Registrieren Sie sich",
+        "alreadySubmitted": {
+            "subscribed": ""
+        }
+    },
+    "signIn": "Anmelden",
+    "singUP": "Registrieren Sie sich",
+    "ok": "",
+    "add": "",
+    "pay": "",
+    "copy": "",
+    "open": "",
+    "next": "",
+    "prev": "",
+    "save": "",
+    "edit": "",
+    "close": "",
+    "cancel": "",
+    "webSave": "",
+    "delete": "",
+    "refresh": "",
+    "viewMore": "",
+    "usePage": "",
+    "delAcc": "",
+    "goToBot": "",
+    "typePrivate": "",
+    "typeBusiness": "",
+    "dashboard": "",
+    "createPage": "",
+    "webchatPreview": "",
+    "deployToSlack": "",
+    "addApiChannel": "",
+    "addWebChannel": "",
+    "loginWithFb": "",
+    "advancedOptions": "",
+    "saveGreetingMessage": "",
+    "newKey": ""
+}
