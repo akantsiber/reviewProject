@@ -1,5 +1,6 @@
 <?php
 return [
+    'Herota' => 'Ebanaya',
     'newKey' => 'new Value',
     'signIn' => 'Sign In',
     'singUP' => 'Sign Up',
